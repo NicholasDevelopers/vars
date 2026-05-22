@@ -1,0 +1,2 @@
+# vars
+growtopia proxy pc
