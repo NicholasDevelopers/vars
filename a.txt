@@ -1,1 +1,1 @@
-node70.lunes.host:3118
+mak.bluproxy.web.id:3118
