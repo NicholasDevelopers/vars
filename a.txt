@@ -1,1 +1,1 @@
-mak.bluproxy.web.id:9785
+api.bluproxy.web.id
